@@ -14,6 +14,7 @@ Roadmap
 Como contribuir
 Equipe
 Licença
+
 📱 Sobre o projeto
 
 O ReciclaBem é um aplicativo desenvolvido por estudantes da Fatec Barueri como projeto acadêmico. O objetivo é facilitar o descarte correto de resíduos, aproximando o cidadão das práticas de reciclagem por meio da tecnologia.
@@ -28,17 +29,24 @@ Objetivo: reunir essas informações em um único aplicativo, simples e acessív
 
 ✨ Funcionalidades
 Funcionalidade	Descrição
+
 📘 Guia de reciclagem	Orienta como separar e descartar corretamente plástico, papel, vidro, metal, orgânicos, eletrônicos, óleo de cozinha e outros materiais.
+
 📍 Pontos de coleta	Exibe no mapa os locais mais próximos para entrega de recicláveis, como ecopontos, cooperativas e postos de coleta seletiva.
+
 🚛 Horários da coleta	Informa os dias e horários de passagem dos caminhões de coleta comum e seletiva, de acordo com o endereço do usuário.
+
 🔔 Lembretes (planejado)	Notificações antes da passagem do caminhão.
+
 🔎 Busca por material (planejado)	Pesquisa rápida para saber se um item é reciclável e como descartá-lo.
+
 🌍 Alinhamento com os ODS
 
 O projeto contribui com os Objetivos de Desenvolvimento Sustentável da ONU:
 
 ODS 11 – Cidades e Comunidades Sustentáveis
 ODS 12 – Consumo e Produção Responsáveis
+
 🛠️ Tecnologias utilizadas
 
 ⚠️ Ajuste esta seção conforme as tecnologias que a equipe realmente utilizar.
@@ -49,6 +57,7 @@ Banco de dados: PostgreSQL · MySQL · Firebase (escolha uma)
 Mapas e geolocalização: Google Maps API · OpenStreetMap / Leaflet
 Versionamento e organização: Git, GitHub e GitHub Projects
 Design: Figma
+
 📂 Estrutura do projeto
 
 Exemplo de estrutura. Adapte conforme o projeto evoluir.
@@ -64,6 +73,7 @@ ReciclaBem/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+
 🚀 Como executar
 Pré-requisitos
 Git
@@ -107,6 +117,7 @@ Sempre cite a fonte e a data de atualização dos dados exibidos no aplicativo.
  Busca por tipo de material
  Testes com usuários
  Expansão para outras cidades do estado
+
 🤝 Como contribuir
 
 Contribuições são bem-vindas!
@@ -116,12 +127,13 @@ Crie uma branch para sua alteração: git checkout -b feature/minha-feature
 Faça o commit: git commit -m "feat: adiciona minha feature"
 Envie para o seu fork: git push origin feature/minha-feature
 Abra um Pull Request
+
 👥 Equipe
 
 Projeto desenvolvido por estudantes da Fatec Barueri.
 
 Nome	Função	GitHub
-Nome do integrante	Função	@TelinhoDragon
+Nome do integrante	Desenvolvedor	@TelinhoDragon
 
 
 Orientação: Prof(a). VANDER RIBEIRO ELME Curso: Gestão Da Tecnologia da Informação · Semestre: 3º
