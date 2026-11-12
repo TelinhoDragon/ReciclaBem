@@ -64,14 +64,23 @@ Exemplo de estrutura. Adapte conforme o projeto evoluir.
 
 ReciclaBem/
 ├── docs/              # Documentação, requisitos e protótipos
+
 ├── src/
+
 │   ├── components/    # Componentes reutilizáveis
+
 │   ├── screens/       # Telas do aplicativo
+
 │   ├── services/      # Integrações com APIs e dados
+
 │   └── assets/        # Imagens, ícones e fontes
+
 ├── data/              # Dados de pontos de coleta e horários
+
 ├── .gitignore
+
 ├── LICENSE
+
 └── README.md
 
 🚀 Como executar
