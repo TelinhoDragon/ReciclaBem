@@ -63,6 +63,7 @@ Design: Figma
 Exemplo de estrutura. Adapte conforme o projeto evoluir.
 
 ReciclaBem/
+
 ├── docs/              # Documentação, requisitos e protótipos
 
 ├── src/
