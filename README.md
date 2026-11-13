@@ -45,6 +45,7 @@ Funcionalidade	Descrição
 O projeto contribui com os Objetivos de Desenvolvimento Sustentável da ONU:
 
 ODS 11 – Cidades e Comunidades Sustentáveis
+
 ODS 12 – Consumo e Produção Responsáveis
 
 🛠️ Tecnologias utilizadas
