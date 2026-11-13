@@ -143,6 +143,7 @@ Abra um Pull Request
 Projeto desenvolvido por estudantes da Fatec Barueri.
 
 Nome	Função	GitHub
+
 Nome do integrante	Desenvolvedor	@TelinhoDragon
 
 
