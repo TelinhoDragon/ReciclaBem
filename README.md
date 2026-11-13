@@ -53,10 +53,15 @@ ODS 12 – Consumo e Produção Responsáveis
 ⚠️ Ajuste esta seção conforme as tecnologias que a equipe realmente utilizar.
 
 Front-end / App: React Native · Flutter · HTML, CSS e JavaScript (escolha uma)
+
 Back-end: Node.js · Python · Java (escolha uma)
+
 Banco de dados: PostgreSQL · MySQL · Firebase (escolha uma)
+
 Mapas e geolocalização: Google Maps API · OpenStreetMap / Leaflet
+
 Versionamento e organização: Git, GitHub e GitHub Projects
+
 Design: Figma
 
 📂 Estrutura do projeto
